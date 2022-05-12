@@ -14,7 +14,7 @@
 
 ## 📋 Sobre
 
-O projeto **Feedback Widget** é uma ferramenta que facilita o recebimento de feedbacks de um site, desenvolvido durante a semana **NLW-Impulse**, da Rockeatseat.
+O projeto **Feedback Widget** é uma ferramenta que facilita o recebimento de feedbacks de um site, desenvolvido durante a semana **NLW-Return**, da Rockeatseat.
 
 ---
 
@@ -75,4 +75,4 @@ O projeto foi desenvolvido utilizado as seguintes tecnologias
 
 
 ---
-Desenvolvido 🖤 por Pedro Losso Quintans junto com a NLW-Impulse
+Desenvolvido 🖤 por Pedro Losso Quintans junto com a NLW-Return
